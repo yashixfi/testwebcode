@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "3feb1884dbf51b74244d2854c785bffa",
-"index.html": "5ea08877719f4988f008d040d1f0fd10",
-"/": "5ea08877719f4988f008d040d1f0fd10",
-"main.dart.js": "909683e410cb03f23f0dbc778e3ddd58",
-"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
+"index.html": "26af1a6920b2089599a177ad32a87e44",
+"/": "26af1a6920b2089599a177ad32a87e44",
+"main.dart.js": "778ef0c7128e40e3038163741d025d95",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -22,11 +21,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/assets/images/logoixfi.png": "5f189b8bd60d901f48cdb59f76062558",
 "assets/assets/images/ixfilogo.png": "b7d61692f4815ecfd585e5c31c07e708",
-"assets/assets/animation/loader.json": "4802a81baa0498bd960df7c0919741d6",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
+"assets/assets/animation/loader.json": "4802a81baa0498bd960df7c0919741d6"
 };
 
 // The application shell files that are downloaded before a service worker can
