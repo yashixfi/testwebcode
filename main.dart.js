@@ -68011,7 +68011,7 @@ d=d.e
 n=J.ajA(20,t.l7)
 for(m=t.F,l=0;l<20;++l){k=f.a
 j=k.e
-j=A.ee(e,e,B.p,k.x.a,e,e,e,0.03,e,e,e,e,j-60)
+j=A.ee(e,e,B.p,k.x.a,e,e,e,0.05,e,e,e,e,j-60)
 k=A.p_(p-c*l)
 i=f.a.x
 k=A.pU(A.a([j,new A.ug(1,B.eY,A.nu(k,new A.u(!0,i.x,e,e,e,e,11,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e),B.k5,e),e)],m),B.ae)
@@ -68069,7 +68069,7 @@ q=o.a
 if(l<r)s=J.aF(q.c,l).a
 else{r=J.aF(q.c,0).a
 s=A.aiX(r.a-B.e.bu(A.be(0,0,B.e.cv(B.e.bu(m.a,1000),n)*l).a,1000),r.b)}}o=o.a.w
-n=A.oS(A.ee(p,p,B.p,o.a,p,p,p,p,p,p,p,p,0.03),1)
+n=A.oS(A.ee(p,p,B.p,o.a,p,p,p,p,p,p,p,p,0.05),1)
 o=o.x
 if(B.e.av(m.a,A.be(1,0,0).a)>0){m=A.a0f(s)
 r=A.f(m<10?0:"")
