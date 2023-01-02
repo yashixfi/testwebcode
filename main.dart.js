@@ -68046,7 +68046,7 @@ aY(a){var s=this.a,r=s.r
 if(a.r!==r||a.d!==s.d)this.d.jE((r+10)*s.d)
 this.bF(a)},
 P(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=k.XY(),h=B.e.X(A.be(0,0,J.aF(k.a.c,0).a.a-J.aF(k.a.c,1).a.a).a*i),g=Math.max(J.aS(k.a.c),1000),f=k.a
-g=A.ajQ(k.d,new A.abU(k,i,new A.aY(h)),g,i*f.d*1.2,new A.Fu(j),!0,B.au)
+g=A.ajQ(k.d,new A.abU(k,i,new A.aY(h)),g,i*f.d,new A.Fu(j),!0,B.au)
 h=f.e
 if(h==null)h=A.ee(j,j,B.p,j,j,j,j,j,j,j,j,j,j)
 else{h=Math.max(h-55,0)
@@ -68060,7 +68060,7 @@ o=A.f(p<10?0:"")
 n=A.a0d(f)
 m=A.f(n<10?0:"")
 l=A.a0e(f)
-h=A.na(0,A.ee(j,A.mf(A.nu(""+A.afL(f)+"-"+(q+r)+"-"+(o+p)+" "+(m+n)+":"+(A.f(l<10?0:"")+l),A.dB(j,j,k.a.w.y,j,j,j,j,j,j,j,j,12,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j),j,j),B.p,s.r,j,j,j,25,j,j,j,j,110),j,j,h,j,j,j)}return new A.fF(B.zN,A.jN(B.aE,A.a([g,h],t.F),B.b8),j)}}
+h=A.na(0,A.ee(j,A.mf(A.nu(""+A.afL(f)+"-"+(q+r)+"-"+(o+p)+" "+(m+n)+":"+(A.f(l<10?0:"")+l),A.dB(j,j,k.a.w.y,j,j,j,j,j,j,j,j,12,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j),j,j),B.p,s.r,j,j,j,20,j,j,j,j,110),j,j,h,j,j,j)}return new A.fF(B.zN,A.jN(B.aE,A.a([g,h],t.F),B.b8),j)}}
 A.abU.prototype={
 $2(a,b){var s,r,q,p=null,o=this.a,n=this.b,m=this.c,l=((n+1)/2|0)-10+b*n+-1
 if(l<0)s=J.aF(o.a.c,0).a.A(0,A.be(0,0,B.e.cv(B.e.bu(m.a,1000),-1)*n*l))
