@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "3feb1884dbf51b74244d2854c785bffa",
-"index.html": "7ffae89233a38984d6acdd30b4ae7714",
-"/": "7ffae89233a38984d6acdd30b4ae7714",
-"main.dart.js": "85bac2e22da2521ed1333f6ab5f126db",
+"index.html": "46e30dc5a2228c0f6f8ae122e4be39bd",
+"/": "46e30dc5a2228c0f6f8ae122e4be39bd",
+"main.dart.js": "6c5fb5b05e7b421f7094aa73841b584c",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -22,7 +22,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/assets/images/logoixfi.png": "5f189b8bd60d901f48cdb59f76062558",
 "assets/assets/images/ixfilogo.png": "b7d61692f4815ecfd585e5c31c07e708",
-"assets/assets/animation/loader.json": "4802a81baa0498bd960df7c0919741d6",
+"assets/assets/animation/loader.json": "a745726264835b4d888e129c3f71cd7e",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
